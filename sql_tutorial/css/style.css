@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.reg_form{
+    background: white;
+    padding: 20px;
+    margin: 50px;
+    box-shadow: 0 0 5px silver;
+    border-radius: 10px;
+    max-width: 500px;
+   
+}
+
+.input_control{
+    display: block;
+    width: 100%;
+    margin: 20px 0;
+    padding: 10px;
+    outline: none;
+    border: 1px solid silver;
+    font-size: 16px;
+}
+
+button{
+    border: none;
+    background: orange;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
